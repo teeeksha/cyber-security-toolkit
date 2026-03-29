@@ -7,4 +7,4 @@ This project contains basic cybersecurity tools:
 3. Encryption Tool using Fernet
 
 ## How to Run
-python filename.py
+python main.py
